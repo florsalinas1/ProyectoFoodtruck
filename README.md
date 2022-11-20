@@ -1,2 +1,2 @@
-# Proyecto_foodtruck
+# ProyectoFoodtruck
 Sistema de ventas para un foodtruck
